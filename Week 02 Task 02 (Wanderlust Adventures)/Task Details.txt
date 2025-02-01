@@ -1,0 +1,68 @@
+pg: 1
+Build a Static Landing Page for a Travel Agency 
+(Frontend Development | jan-feb Cohort 2025 week#02) 
+Objective: 
+Create a visually appealing and fully responsive landing page for a fictional travel agency called "Wanderlust Adventures". The page should showcase the agency's offerings, include a call-to-action for bookings, and highlight featured travel destinations. 
+Page Structure and Requirements: 
+1. Header Section 
+Logo on the left (use a text like "Wanderlust Adventures"). 
+A responsive navigation bar with links: 
+• Home 
+Destinations 
+• Packages 
+Contact Us 
+A call-to-action button: "Book Now 
+2. Hero Section 
+A full-width background image/video of a scenic travel destination (Get from freepik or unsplash). 
+A catchy tagline, e.g., "Explore the World with Wanderlust Adventures". 
+A search bar for destinations with a placeholder (e.g., "Where do you want to go?"). 
+3. Featured Destinations Section 
+Showcase 4-6 popular travel destinations (e.g., Paris, Maldives, Skardu). 
+Each destination should have: 
+• An image. 
+A short description. 
+A "View More" button. 
+4. Packages and Offers Section
+
+pg: 2
+Highlight special travel packages (e.g., Honeymoon Getaway, Adventure Trails, Family Trips). 
+Use cards or grids to display: 
+• Package name. 
+Price. 
+Short description. 
+A "Learn More" or "Book Now" button. 
+5. Testimonials Section 
+Include 2-3 testimonials from happy clients. 
+Use profile images, names, and short feedback. 
+6. Contact Section 
+A contact form with fields for: 
+Name. 
+Email. 
+• Message. 
+Include a business address, email, and phone number. 
+Add social media icons for platforms like Instagram, Facebook, and Twitter. 
+7. Footer Section 
+Links to: 
+Terms and Conditions. 
+Privacy Policy. 
+FAQs. 
+A copyright notice, e.g., "© 2025 Wanderlust Adventures. All rights reserved." 
+Design Guidelines 
+Color Scheme: Shades of blue, white, and accents of gold or orange for a professional yet adventurous feel. 
+Typography: Use a clean, modern font (e.g., Montserrat or Open Sans). 
+Spacing: Maintain proper padding and margins for readability.
+
+pg: 3
+Interactivity: Add hover effects to buttons and links. 
+Technical Requirements 
+Use HTML for the structure and CSS for styling. 
+Implement Flexbox or CSS Grid for layout. 
+Make the page responsive for mobile, and desktop device. 
+Use free stock images from platforms like Unsplash or Pexels for visuals. 
+Submission Guidelines 
+Screen record the website video and upload on your LinkedIn profile. 
+Deploy the site on GitHub Pages, Netlify, or Vercel and add the live demo link on LinkdIn post. 
+Timeline 
+6 days for completion (Complete it before 2nd feb 2025). 
+Thanks 
+INTERNSHIP PAKISTAN

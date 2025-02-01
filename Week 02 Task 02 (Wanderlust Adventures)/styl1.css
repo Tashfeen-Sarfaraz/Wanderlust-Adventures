@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: navy;
+    color: white;
+}
+.btn {
+    background: orange;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.hero {
+    text-align: center;
+    padding: 50px;
+    background: url('../images/hero.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
